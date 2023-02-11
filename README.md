@@ -1,1 +1,2 @@
-vykaz prac : https://docs.google.com/spreadsheets/d/1W4FrmErQwd86uY2P-Vr7YEgFlpw3MfQabaGOjYDBr_M/edit#gid=0
+Projekt ktory som vytvara pre potrebu projektu.
+je v nom zahrnute vyuzitie springu, JPArepositories, MySql DB, generovanie pdf suborov
